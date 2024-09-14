@@ -29,10 +29,11 @@ Para ejecutar los ejemplos proporcionados en este repositorio, necesitas tener P
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/turepositorio.git
+ 
+  ```
  cd tu repositorio 
-
  pip install -r requirements.txt
 
 python examples/cliente_servidor.py
 
-```
+
