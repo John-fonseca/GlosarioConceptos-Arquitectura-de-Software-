@@ -24,22 +24,21 @@ Para obtener explicaciones detalladas, ejemplos y aplicaciones de cada patrón d
 
 ## Instalación
 
-Para ejecutar los ejemplos proporcionados en este repositorio, necesitas tener Python 3.x instalado en tu sistema.
+Para ejecutar los ejemplos proporcionados en este repositorio, necesitas tener Python.instalado en tu sistema.
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/turepositorio.git
 
 2. Dirigete a tu repositorio:
-```bash
- cd tu repositorio
-```
+   ```bash
+   cd tu repositorio
 3. Instala Dependencias:
-```bash
- pip install -r requirements.txt
-````
+   ```bash
+   pip install -r requirements.txt
+   
 4. Incia el proyecto con la siguiente instrucción:
-```bash
-python examples/cliente_servidor.py
+   ```bash
+   python examples/cliente_servidor.py
 ```
 
