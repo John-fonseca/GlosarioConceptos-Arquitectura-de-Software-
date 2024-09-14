@@ -29,14 +29,16 @@ Para ejecutar los ejemplos proporcionados en este repositorio, necesitas tener P
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/turepositorio.git
- 
-  ```bash
+
+2. Dirigete a tu repositorio:
+```bash
  cd tu repositorio
 ```
-
+3. Instala Dependencias:
 ```bash
  pip install -r requirements.txt
 ````
+4. Incia el proyecto con la siguiente instrucción:
 ```bash
 python examples/cliente_servidor.py
 ```
