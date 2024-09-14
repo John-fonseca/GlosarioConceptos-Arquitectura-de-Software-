@@ -12,7 +12,7 @@ Los patrones documentados son:
 
 ## Accede a la Wiki
 
-Para obtener explicaciones detalladas, ejemplos y aplicaciones de cada patrón de diseño, visita la [Wiki](https://github.com/tuusuario/turepositorio/wiki).
+Para obtener explicaciones detalladas, ejemplos y aplicaciones de cada patrón de diseño, visita la [Wiki](https://github.com/John-fonseca/GlosarioConceptos-Arquitectura-de-Software-/wiki).
 
 ## Ejemplos en Python
 
