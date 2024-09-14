@@ -1,0 +1,1 @@
+# GlosarioConceptos-Arquitectura-de-Software-
