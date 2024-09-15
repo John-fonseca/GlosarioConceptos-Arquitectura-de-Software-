@@ -39,5 +39,5 @@ Para ejecutar los ejemplos proporcionados en este repositorio, necesitas tener P
 
 4. Incia el proyecto con la siguiente instrucción:
    ```bash
-   python examples/cliente_servidor.py
+   python Examples/Client-Servidor/cliente_servidor.py
 
