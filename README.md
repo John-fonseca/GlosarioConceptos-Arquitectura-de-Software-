@@ -16,7 +16,7 @@ Para obtener explicaciones detalladas, ejemplos y aplicaciones de cada patrón d
 
 ## Ejemplos en Python
 
-- [Ejemplo Cliente-Servidor](Examples/Client-Servidor)
+- [Ejemplo Cliente-Servidor](./Examples/Client-Servidor)
 - [Ejemplo de Microservicios](Examples//microservicios.py)
 - [Ejemplo Singleton](Examples/singleton.py)
 - [Ejemplo Observer](Examples//observer.py)
