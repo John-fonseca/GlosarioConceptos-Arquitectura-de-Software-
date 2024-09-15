@@ -16,11 +16,11 @@ Para obtener explicaciones detalladas, ejemplos y aplicaciones de cada patrón d
 
 ## Ejemplos en Python
 
-- [Ejemplo Cliente-Servidor](./examples/cliente_servidor.py)
-- [Ejemplo de Microservicios](./examples/microservicios.py)
-- [Ejemplo Singleton](./examples/singleton.py)
-- [Ejemplo Observer](./examples/observer.py)
-- [Ejemplo Strategy](./examples/strategy.py)
+- [Ejemplo Cliente-Servidor](Examples/Client-Servidor)
+- [Ejemplo de Microservicios](Examples//microservicios.py)
+- [Ejemplo Singleton](Examples/singleton.py)
+- [Ejemplo Observer](Examples//observer.py)
+- [Ejemplo Strategy](Examples/strategy.py)
 
 ## Instalación
 
